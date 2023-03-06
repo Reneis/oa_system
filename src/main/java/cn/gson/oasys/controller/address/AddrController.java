@@ -544,5 +544,9 @@ public class AddrController {
 		model.addAttribute("url", "inaddresspaging");
 		return "address/inaddrss";
 	}
+
+	public void test(){
+
+	}
 	
 }
