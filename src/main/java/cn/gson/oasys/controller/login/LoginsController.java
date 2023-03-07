@@ -39,6 +39,7 @@ public class LoginsController {
 	
 	public static final String CAPTCHA_KEY = "session_captcha";
 
+
 	private Random rnd = new Random();
 	
 	/**
